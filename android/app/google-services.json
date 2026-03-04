@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748018801304",
+    "project_id": "tracktour-38005",
+    "storage_bucket": "tracktour-38005.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748018801304:android:e12656b741b232f5464eed",
+        "android_client_info": {
+          "package_name": "com.cope.tracktour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdGM7PSHD8r2bzngvTn2NLiGCpxnyoN5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
