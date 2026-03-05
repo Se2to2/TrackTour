@@ -22,3 +22,5 @@ A Game Tournament Management made with Flutter/Dart.
 
 
 ## Bugs
+
+-No bugs Trust plez
