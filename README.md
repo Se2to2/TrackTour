@@ -1,8 +1,8 @@
-# flutter_application_1
+# TrackTour
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## Features
 
 This project is a starting point for a Flutter application.
 
