@@ -1,24 +1,23 @@
 # TrackTour
 
-A Flutter project.
+A Game Tournament Management made with Flutter/Dart.
 
 ## Working Features
--Create Tournament
--Search System
--Search Filter
--Tournament ID & Sharing
--
+-Create Tournament <br>
+-Search System <br>
+-Search Filter <br>
+-Tournament ID & Sharing <br>
 
 ## In-Dev
--Tournament Calendar
--Notifications
--Profile & Settings
--Player Roster
--Tournament Moderator
--Admin Approved / Decline Button
--Tournament Statistics
--Tournament Brackets / Live Scoring
--Widgetize EVERYTING !!!!!!
+-Tournament Calendar <br>
+-Notifications <br>
+-Profile & Settings <br>
+-Player Roster <br>
+-Tournament Moderator <br>
+-Admin Approved / Decline Button <br>
+-Tournament Statistics <br>
+-Tournament Brackets / Live Scoring <br>
+-Widgetize EVERYTING !!!!!! <br>
 
 
 
